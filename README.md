@@ -9,8 +9,9 @@
 [![aiogram 3.x](https://img.shields.io/badge/aiogram-3.x-2CA5E0?logo=telegram&logoColor=white)](https://docs.aiogram.dev/)
 [![SQLite](https://img.shields.io/badge/Database-aiosqlite-003B57?logo=sqlite&logoColor=white)](https://sqlite.org)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white)](https://docker.com)
+[![Donate](https://img.shields.io/badge/Donate-DonationAlerts-ea7600?logo=donationalerts&logoColor=white)](https://www.donationalerts.com/r/fameboyq)
 
-[English Documentation](#-english-guide) • [Инструкция на русском](#-инструкция-на-русском)
+[English Documentation](#-english-guide) • [Инструкция на русском](#-инструкция-на-русском) • [💖 Support](https://www.donationalerts.com/r/fameboyq)
 
 </div>
 
@@ -108,6 +109,10 @@ docker compose up -d --build
 * `/interests` — Выбор интересов для поиска
 * `/settings` — Настройки пола и профиля
 * `/vip` — VIP статус и премиум фильтры
+
+## 💖 Support the Project / Поддержать автора
+* ☕ **DonationAlerts:** [donationalerts.com/r/fameboyq](https://www.donationalerts.com/r/fameboyq)
+* ✈️ **Telegram:** [@fameboyq](https://t.me/fameboyq)
 
 ---
 
